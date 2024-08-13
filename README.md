@@ -1,7 +1,6 @@
 - Hi, I’m @abhayx3324
-- I’m interested in AI&Ml, UI/UX design
-- I’m currently learning Java
-- I’m looking to collaborate on ...
+- I’m interested in Machine Learning, Web Development and Data analytics
+- I’m currently learning Full Stack Web Development
 - How to reach me abhayv0324@gmail.com
 
 <!---
